@@ -51,8 +51,8 @@ Siga os passos abaixo no seu terminal para rodar o projeto:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/rhaycosta/abc-curve-logistics.git](https://github.com/rhaycosta/abc-curve-logistics.git)
-cd abc-curve-logistics
+git clone (https://github.com/rhaycosta/abc-curve-logistics.git)
+
 ```
 
 ### 2. Criar o Ambiente Virtual (Recomendado)
